@@ -1,2 +1,3 @@
 # Projeto-P2
-# Teste
+Projeto de Programação 2, feito em java.
+Equipe: Matheus Maia, Igor Pinheiro e Daniyel Rocha
